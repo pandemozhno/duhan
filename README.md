@@ -1,6 +1,6 @@
 // بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِيمِ‎
 
-# duhan
+#  Dukhan (с арабского - дым)
 Free Open Source P2P NAT Network without Internet Connection
 
 Двунаправленное соединение устройств по wifi, автономной сеть среди мобильных устройств.
